@@ -1,2 +1,2 @@
 # miprimerrepositorio
-para probar
+para probar github por primera vez  
